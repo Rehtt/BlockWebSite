@@ -8,6 +8,7 @@
 // @match        *://*.bilibili.com/*
 // @require      http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js
 // @grant        none
+// @run-at       document-done
 // ==/UserScript==
 
 jQuery.noConflict();
