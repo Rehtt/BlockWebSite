@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         戒拖延
 // @namespace    https://blog.rehtt.com
-// @version      0.2
+// @version      0.1
 // @updateURL    https://raw.githubusercontent.com/Rehtt/BlockWebSite/master/main.js
 // @description  简单屏掉指定网站
 // @author       Rehtt
