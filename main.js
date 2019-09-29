@@ -32,7 +32,7 @@
         })
     }
     if (new Date(nowTime).getDay() === new Date(timeValue).getDay()) {
-        if (number <= 5) {
+        if (number <= 15) {
             number += 1;
             GM_setValue('data', {
                 'time': nowTime,
