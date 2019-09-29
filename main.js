@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         戒拖延
 // @namespace    https://github.com/Rehtt/BlockWebSite
-// @version      0.1.2
+// @version      0.1.3
 // @updateURL    https://raw.githubusercontent.com/Rehtt/BlockWebSite/master/main.js
 // @description  简单屏掉指定网站
 // @author       Rehtt
-// @match        *://*.bilibili.com/*
+// @match        *://*.bilibili.com/video/*
+// @match        *://t.bilibili.com/*
 // @note         2019-9-29 0.1.2 新增 计次
 // @grant        GM_setValue
 // @grant        GM_getValue
